@@ -107,4 +107,4 @@ Each error will be logged to the console while allowing the script to continue p
 - Always use environment variables for credentials
 - Keep your App Passwords secure
 - Regularly rotate your credentials
-- Monitor your application's access and usage 
+- Monitor your application's access and usage
