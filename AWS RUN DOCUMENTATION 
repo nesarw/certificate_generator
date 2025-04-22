@@ -1,0 +1,9 @@
+AWS RUN DOCUMENTATION - 
+1) Nano setup_aws.py 
+2) COPY AND PASTE THE CODE IN SETUP_AWS.PY
+3) Nano setup.sh
+4) COPY AND PASTE THE CODE IN SETUP.SH
+5) nano /home/cloudshell-user/certificate_generator/certificate_generator.py
+6) Copy and Paste the code in certificate_generator.py
+7) python certificate_generator.py
+

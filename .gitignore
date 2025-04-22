@@ -1,0 +1,25 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Generated certificates
+generated_certificates/
+generated_certificates/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Excel temporary files
+~$*.xlsx
+
+# macOS
+.DS_Store
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/ 
